@@ -1,6 +1,6 @@
 {
   "name": "tiny-echo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "🔸 A tiny echo for Node",
   "main": "index.js",
   "typings": "index.d.ts",

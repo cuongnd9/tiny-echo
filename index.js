@@ -4,4 +4,6 @@ function echo(text) {
     signale.watch(`🦄 ${text}`);
 }
 
-module.exports = echo;
+module.exports = {
+    echo
+};
