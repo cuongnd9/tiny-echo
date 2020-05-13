@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "🔸 A tiny echo for Node",
   "main": "index.js",
+  "typings": "index.d.ts",
   "repository": "https://github.com/103cuong/tiny-echo",
   "author": "Cuong Duy Nguyen",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "signale": "^1.4.0"
+  }
 }
