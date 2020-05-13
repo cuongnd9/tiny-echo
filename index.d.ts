@@ -1,5 +1,5 @@
-declare module echo {
+declare module tinyEcho {
     function echo(input: string | number | boolean): void;
 }
 
-export = echo;
+export = tinyEcho;
