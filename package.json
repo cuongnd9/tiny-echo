@@ -1,0 +1,9 @@
+{
+  "name": "tiny-echo",
+  "version": "0.0.1",
+  "description": "🔸 A tiny echo for Node",
+  "main": "index.js",
+  "repository": "https://github.com/103cuong/tiny-echo",
+  "author": "Cuong Duy Nguyen",
+  "license": "MIT"
+}
